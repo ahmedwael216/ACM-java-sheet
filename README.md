@@ -2,5 +2,6 @@
 ### A cheat sheet for java contectants in ICPC
 ***
 ### Development plan:
-- [ ] adding a contribution guide.
-- [ ] starting the sheet with some helper methods.
+- [X] Adding a contribution guide.
+- [ ] Addings other resources section.
+- [ ] Starting the sheet with some Algorithms.
