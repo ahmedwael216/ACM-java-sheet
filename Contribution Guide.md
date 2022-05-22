@@ -9,6 +9,7 @@
 - Methods & Variables should have ***meaningful names***.
 - No names like (c1, c2 ,flag  ...) without explaining what do they represent.
 - Add comments to explain hard to understand or easily forgetable parts.
+- please add a comment before every method telling what is it's time complexity in [Big O](https://en.m.wikipedia.org/wiki/Big_O_notation) notation. 
 ***
 ## Topics Needed:
 > These are the topics in mind right now.
