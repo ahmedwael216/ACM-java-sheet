@@ -8,5 +8,5 @@
 
 
 ### Contributers:
-- [Amir Tarek] (https://github.com/amir-awad)
-- [Ahmed Wael] (https://github.com/ahmedwael216)
+- [Amir Tarek](https://github.com/amir-awad)
+- [Ahmed Wael](https://github.com/ahmedwael216)
