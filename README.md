@@ -5,3 +5,8 @@
 - [X] Adding a contribution guide.
 - [ ] Addings other resources section.
 - [ ] Starting the sheet with some Algorithms.
+
+
+### Contributers:
+- [Amir Tarek] (https://github.com/amir-awad)
+- [Ahmed Wael] (https://github.com/ahmedwael216)
